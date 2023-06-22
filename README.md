@@ -2,7 +2,7 @@
 
 ~~TODO: parallelized version of flow training.~~
 
-**Update: The parallelized version is now implemented on the parallel-training branch. (Jun. 21, 2023)**
+**Update: The parallelized version is now implemented on the parallel-training branch in https://github.com/KaiYan289/CEIP. (Jun. 21, 2023)**
 
 This repository is the code of CEIP and PARROT method for NeurIPS 2022 proceedings "CEIP: Combining Explicit and Implicit Priors for Reinforcement Learning with Demonstrations". The project page is https://289371298.github.io/jekyll/update/2022/10/25/CEIP.html.
 
